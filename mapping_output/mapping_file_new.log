@@ -1,0 +1,6 @@
+# Errors and warnings are written as a tab separated columns, with the first column showing the error or warning, and the second column contains the location of the error or warning, written as row,column, where 0,0 is the top left header item (SampleID).  Problems not specific to a particular data cell will be listed as having 'no location'.
+Errors -----------------------------
+Warnings ---------------------------
+Invalid characters found in  51.524074	9,7
+Invalid characters found in  -0.130824	9,8
+Invalid characters found in -0.130664 	12,8
