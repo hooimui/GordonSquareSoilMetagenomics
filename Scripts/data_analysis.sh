@@ -1,3 +1,4 @@
+#!/bin/bash
 #To carry out several QIIME diversity analyses together
 core_diversity_analyses.py -i merged_otu_table.biom -o core_output -m mapping_file_new_corrected.txt -c Day, Month, Year, Longitude, Latitude -t 97_otus.tree -e 370000
 
